@@ -1,0 +1,14 @@
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\01.UsdToEur\bin\Debug\net8.0\01.UsdToEur.exe
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\01.UsdToEur\bin\Debug\net8.0\01.UsdToEur.deps.json
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\01.UsdToEur\bin\Debug\net8.0\01.UsdToEur.runtimeconfig.json
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\01.UsdToEur\bin\Debug\net8.0\01.UsdToEur.dll
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\01.UsdToEur\bin\Debug\net8.0\01.UsdToEur.pdb
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\01.UsdToEur\obj\Debug\net8.0\01.UsdToEur.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\01.UsdToEur\obj\Debug\net8.0\01.UsdToEur.AssemblyInfoInputs.cache
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\01.UsdToEur\obj\Debug\net8.0\01.UsdToEur.AssemblyInfo.cs
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\01.UsdToEur\obj\Debug\net8.0\01.UsdToEur.csproj.CoreCompileInputs.cache
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\01.UsdToEur\obj\Debug\net8.0\01.UsdToEur.dll
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\01.UsdToEur\obj\Debug\net8.0\refint\01.UsdToEur.dll
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\01.UsdToEur\obj\Debug\net8.0\01.UsdToEur.pdb
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\01.UsdToEur\obj\Debug\net8.0\01.UsdToEur.genruntimeconfig.cache
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\01.UsdToEur\obj\Debug\net8.0\ref\01.UsdToEur.dll
