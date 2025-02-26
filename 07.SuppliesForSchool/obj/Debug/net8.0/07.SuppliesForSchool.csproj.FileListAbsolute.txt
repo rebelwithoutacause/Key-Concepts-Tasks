@@ -1,0 +1,14 @@
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\07.SuppliesForSchool\bin\Debug\net8.0\07.SuppliesForSchool.exe
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\07.SuppliesForSchool\bin\Debug\net8.0\07.SuppliesForSchool.deps.json
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\07.SuppliesForSchool\bin\Debug\net8.0\07.SuppliesForSchool.runtimeconfig.json
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\07.SuppliesForSchool\bin\Debug\net8.0\07.SuppliesForSchool.dll
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\07.SuppliesForSchool\bin\Debug\net8.0\07.SuppliesForSchool.pdb
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\07.SuppliesForSchool\obj\Debug\net8.0\07.SuppliesForSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\07.SuppliesForSchool\obj\Debug\net8.0\07.SuppliesForSchool.AssemblyInfoInputs.cache
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\07.SuppliesForSchool\obj\Debug\net8.0\07.SuppliesForSchool.AssemblyInfo.cs
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\07.SuppliesForSchool\obj\Debug\net8.0\07.SuppliesForSchool.csproj.CoreCompileInputs.cache
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\07.SuppliesForSchool\obj\Debug\net8.0\07.SuppliesForSchool.dll
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\07.SuppliesForSchool\obj\Debug\net8.0\refint\07.SuppliesForSchool.dll
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\07.SuppliesForSchool\obj\Debug\net8.0\07.SuppliesForSchool.pdb
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\07.SuppliesForSchool\obj\Debug\net8.0\07.SuppliesForSchool.genruntimeconfig.cache
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\07.SuppliesForSchool\obj\Debug\net8.0\ref\07.SuppliesForSchool.dll
