@@ -1,0 +1,14 @@
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\06.MandatoryLiterature\bin\Debug\net8.0\06.MandatoryLiterature.exe
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\06.MandatoryLiterature\bin\Debug\net8.0\06.MandatoryLiterature.deps.json
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\06.MandatoryLiterature\bin\Debug\net8.0\06.MandatoryLiterature.runtimeconfig.json
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\06.MandatoryLiterature\bin\Debug\net8.0\06.MandatoryLiterature.dll
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\06.MandatoryLiterature\bin\Debug\net8.0\06.MandatoryLiterature.pdb
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\06.MandatoryLiterature\obj\Debug\net8.0\06.MandatoryLiterature.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\06.MandatoryLiterature\obj\Debug\net8.0\06.MandatoryLiterature.AssemblyInfoInputs.cache
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\06.MandatoryLiterature\obj\Debug\net8.0\06.MandatoryLiterature.AssemblyInfo.cs
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\06.MandatoryLiterature\obj\Debug\net8.0\06.MandatoryLiterature.csproj.CoreCompileInputs.cache
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\06.MandatoryLiterature\obj\Debug\net8.0\06.MandatoryLiterature.dll
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\06.MandatoryLiterature\obj\Debug\net8.0\refint\06.MandatoryLiterature.dll
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\06.MandatoryLiterature\obj\Debug\net8.0\06.MandatoryLiterature.pdb
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\06.MandatoryLiterature\obj\Debug\net8.0\06.MandatoryLiterature.genruntimeconfig.cache
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\06.MandatoryLiterature\obj\Debug\net8.0\ref\06.MandatoryLiterature.dll
