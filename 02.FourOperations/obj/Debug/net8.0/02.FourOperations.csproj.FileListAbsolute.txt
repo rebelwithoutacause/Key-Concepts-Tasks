@@ -1,0 +1,14 @@
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\02.FourOperations\bin\Debug\net8.0\02.FourOperations.exe
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\02.FourOperations\bin\Debug\net8.0\02.FourOperations.deps.json
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\02.FourOperations\bin\Debug\net8.0\02.FourOperations.runtimeconfig.json
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\02.FourOperations\bin\Debug\net8.0\02.FourOperations.dll
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\02.FourOperations\bin\Debug\net8.0\02.FourOperations.pdb
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\02.FourOperations\obj\Debug\net8.0\02.FourOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\02.FourOperations\obj\Debug\net8.0\02.FourOperations.AssemblyInfoInputs.cache
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\02.FourOperations\obj\Debug\net8.0\02.FourOperations.AssemblyInfo.cs
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\02.FourOperations\obj\Debug\net8.0\02.FourOperations.csproj.CoreCompileInputs.cache
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\02.FourOperations\obj\Debug\net8.0\02.FourOperations.dll
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\02.FourOperations\obj\Debug\net8.0\refint\02.FourOperations.dll
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\02.FourOperations\obj\Debug\net8.0\02.FourOperations.pdb
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\02.FourOperations\obj\Debug\net8.0\02.FourOperations.genruntimeconfig.cache
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\02.FourOperations\obj\Debug\net8.0\ref\02.FourOperations.dll
