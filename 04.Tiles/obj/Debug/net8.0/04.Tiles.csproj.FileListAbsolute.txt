@@ -1,0 +1,14 @@
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\04.Tiles\bin\Debug\net8.0\04.Tiles.exe
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\04.Tiles\bin\Debug\net8.0\04.Tiles.deps.json
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\04.Tiles\bin\Debug\net8.0\04.Tiles.runtimeconfig.json
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\04.Tiles\bin\Debug\net8.0\04.Tiles.dll
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\04.Tiles\bin\Debug\net8.0\04.Tiles.pdb
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\04.Tiles\obj\Debug\net8.0\04.Tiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\04.Tiles\obj\Debug\net8.0\04.Tiles.AssemblyInfoInputs.cache
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\04.Tiles\obj\Debug\net8.0\04.Tiles.AssemblyInfo.cs
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\04.Tiles\obj\Debug\net8.0\04.Tiles.csproj.CoreCompileInputs.cache
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\04.Tiles\obj\Debug\net8.0\04.Tiles.dll
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\04.Tiles\obj\Debug\net8.0\refint\04.Tiles.dll
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\04.Tiles\obj\Debug\net8.0\04.Tiles.pdb
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\04.Tiles\obj\Debug\net8.0\04.Tiles.genruntimeconfig.cache
+C:\QA STUFF\Programming for QA\Programming fundamentals and unit testing\Key Concepts\HomeworkKeyConceptsLab\KeyConceptsLab\04.Tiles\obj\Debug\net8.0\ref\04.Tiles.dll
